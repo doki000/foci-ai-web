@@ -16,4 +16,4 @@ if st.button("Tipp generálása"):
         st.success("Ajánlott tipp: ✅ Over 2.5")
     else:
         st.warning("Ajánlott tipp: ❌ Under 2.5")
-add app.py
+
